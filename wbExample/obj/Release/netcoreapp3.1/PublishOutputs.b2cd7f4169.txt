@@ -1,0 +1,12 @@
+E:\LastDanceAPI\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\wbExample.exe
+E:\LastDanceAPI\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+E:\LastDanceAPI\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+E:\LastDanceAPI\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\wbExample.dll
+E:\LastDanceAPI\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\wbExample.deps.json
+E:\LastDanceAPI\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\wbExample.runtimeconfig.json
+E:\LastDanceAPI\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\wbExample.pdb
+E:\LastDanceAPI\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\Aspose.Cells.dll
+E:\LastDanceAPI\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\ClosedXML.dll
+E:\LastDanceAPI\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\DocumentFormat.OpenXml.dll
+E:\LastDanceAPI\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\ExcelNumberFormat.dll
+E:\LastDanceAPI\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\System.IO.Packaging.dll

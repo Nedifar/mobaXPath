@@ -1,0 +1,12 @@
+F:\wbExample\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\wbExample.exe
+F:\wbExample\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+F:\wbExample\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+F:\wbExample\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\wbExample.dll
+F:\wbExample\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\wbExample.deps.json
+F:\wbExample\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\wbExample.runtimeconfig.json
+F:\wbExample\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\wbExample.pdb
+F:\wbExample\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\Aspose.Cells.dll
+F:\wbExample\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\ClosedXML.dll
+F:\wbExample\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\DocumentFormat.OpenXml.dll
+F:\wbExample\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\ExcelNumberFormat.dll
+F:\wbExample\wbExample\obj\Release\netcoreapp3.1\PubTmp\Out\System.IO.Packaging.dll
